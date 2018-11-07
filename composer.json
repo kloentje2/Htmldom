@@ -1,5 +1,5 @@
 {
-    "name": "Khollander/htmldom",
+    "name": "khollander/htmldom",
     "type": "library",
     "description": "Simple Html Dom Parser for Laravel 4",
     "keywords": ["laravel", "html parser"],
